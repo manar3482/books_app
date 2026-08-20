@@ -115,6 +115,7 @@ The project uses .gitignore to prevent sensitive files such as .env from being u
 👩‍💻 Developer
 
 Manar Alaa
+walaa mahmoud
 
 GitHub: @manar3482
 
