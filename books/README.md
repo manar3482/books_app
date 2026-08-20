@@ -51,6 +51,21 @@ Sensitive Firebase configuration files are excluded from the public repository.
 
 ## 📱 Main Screens
 
+## 📸 App Screenshots
+
+<p align="center">
+  <img src="screenshots/login.jpg" width="200">
+  <img src="screenshots/sing_up.jpg" width="200">
+  <img src="screenshots/home.jpg" width="200">
+  <img src="screenshots/search.jpg" width="200">
+</p>
+
+<p align="center">
+  <img src="screenshots/details.jpg" width="200">
+  <img src="screenshots/favorites.jpg" width="200">
+  <img src="screenshots/add_book.jpg" width="200">
+  <img src="screenshots/user.jpg" width="200">
+</p>
 - Login Screen
 - Register Screen
 - Home Screen
